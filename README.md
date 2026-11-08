@@ -86,8 +86,7 @@ python evaluate.py
 ---
 ## Results
 <p align="center"> 
-  <img src="graphs/mae.png" width="300"/>
-  <img src="graphs/leadtimes.png" width="300"/>
+  <img src="graphs/wind_group.png" width="600"/>
 </p>
 
 <p align="center">
